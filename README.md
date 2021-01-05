@@ -1,2 +1,2 @@
 # Picture
-for picGo
+for picGo and web clipper
