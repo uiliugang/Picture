@@ -1,2 +1,2 @@
 # Picture
-used for markdown pictures
+for markdown pic 
