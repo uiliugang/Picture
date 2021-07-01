@@ -1,2 +1,2 @@
 # Picture
-for picGo and web clipper
+used for markdown pictures
